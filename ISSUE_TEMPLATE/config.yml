@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Questions & ideas
+    url: https://github.com/diamondrubinny/D.Ai/discussions
+    about: Ask questions and share ideas in Discussions (D.Ai and Rubinny Signage have Discussions enabled).
+  - name: 💼 Custom development & paid support
+    url: https://rubinny.co.il
+    about: Need a custom system, integration or website? Get in touch.
